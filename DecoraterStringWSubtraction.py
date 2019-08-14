@@ -11,11 +11,9 @@ class DecoratedString(str):
 
 	def __sub__(self, value):
 		if value in self.string:
-			start = 0
 			for i in range(len(self.string)):
 				if self.string[i] == value[0] and self.string[i:i + len(value)] == value:
-					self.string = self.string[:i] + self.string[i + len(value):]
-					return self.string
+					return self.string[:i] + self.string[i + len(value):]
 		else:
 			return False
 
