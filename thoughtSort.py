@@ -20,5 +20,5 @@ def ThoughtSort(lst):
 	return x 
 
 
-l = [13, 44, 73, -5, -41, 0, 17]
+l = [13, 44, 73, -5, -41, 0, 17, 0]
 print(ThoughtSort(l))
