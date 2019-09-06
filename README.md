@@ -5,3 +5,4 @@ A home for all my SnakeBabies
 	1. Similarity Check
 	2. Decorated Strings that allow subtraction operator 
 	3. Crude Sorting Algorithm
+	4. LibraryMan
