@@ -14,9 +14,7 @@ def convert_to(letter_string):
 		if i == " ":
 				num_string += i
 		else:
-			for j in alpha_map:
-				if i in alpha_map[j]:
-					num_string += str(j)
+			num_string += t9_interface(i)
 			
 	return num_string
 
@@ -27,6 +25,6 @@ def reduce_string(letter_string):
 	return "".join([i for i in letter_string.lower() if i not in vowels]).capitalize()
 
 
-print(reduce_string("hello world"))
+print(convert_to(reduce_string("hello world")))
 
 
