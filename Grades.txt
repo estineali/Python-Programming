@@ -1,0 +1,6 @@
+Semester: SemesterName
+CoursenName : CourseGrade : CourseCreditHours
+
+
+#Remove these 2 lines 
+#Dont use ":" symbol in any course name or semestername
