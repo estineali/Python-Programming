@@ -1,0 +1,13 @@
+--------------------------Drinks-------------------------- 
+Items 				 Price(per 1 litre bottle) 
+---------------------------------------------------------- 
+1. Coke              Rs. 70
+2. Sprite            Rs. 75
+3. Fanta             Rs. 65
+4. Milk              Rs. 60
+5. LemonMalt         Rs. 50
+6. Water             Rs. 30
+7. AppleJuice        Rs. 65
+8. OrangeJuice       Rs. 70
+9. EnergyDrink       Rs. 100
+10. Coffee           Rs. 75

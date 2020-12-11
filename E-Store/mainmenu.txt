@@ -1,0 +1,8 @@
+	 Main Menu 
+	 Sections 
+
+1. Bakery 
+2. Fruits 
+3. Meat 
+4. Drinks 
+5. Frozen Items

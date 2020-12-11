@@ -1,0 +1,13 @@
+------------------Bakery------------------------ 
+Items 				 Price(per item) 
+------------------------------------------------ 
+1. Brownie           Rs. 25
+2. Cake              Rs. 120
+3. Cupcake           Rs. 45
+4. ChickenPatties    Rs. 50
+5. Sandwich          Rs. 60
+6. Cheesecake        Rs. 135
+7. Cookie            Rs. 85
+8. Tart              Rs. 55
+9. Bread             Rs. 40
+10. CheeseSticks     Rs. 65

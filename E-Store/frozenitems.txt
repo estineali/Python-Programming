@@ -1,0 +1,13 @@
+-----------------Frozen Items------------------ 
+Items 				 Price(per box) 
+----------------------------------------------- 
+1. ChickenNuggets       Rs. 70
+2. ChickenPatty         Rs. 85
+3. ChickenChunks        Rs. 95
+4. SeekhKabab           Rs. 90
+5. Sausages             Rs. 75
+6. ChickenTenders       Rs. 100
+7. ChickenSamosa        Rs. 120
+8. PotatoSamosa         Rs. 120
+9. ChickenRoll          Rs. 140
+10. VegetableRoll       Rs. 110

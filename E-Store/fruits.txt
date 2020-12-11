@@ -1,0 +1,13 @@
+-----------------Fruits----------------------- 
+Items 				 Price(per kg) 
+---------------------------------------------- 
+1. Mango             Rs. 30
+2. Banana            Rs. 25
+3. Strawberry        Rs. 30
+4. Peach             Rs. 20
+5. Cherries          Rs. 70
+6. Apples            Rs. 40
+7. Kiwi              Rs. 45
+8. Watermelon        Rs. 80
+9. Orange            Rs. 55
+10. Guava            Rs. 60
