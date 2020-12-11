@@ -1,0 +1,13 @@
+--------------------Meat---------------------- 
+Items 				 Price(per kg) 
+---------------------------------------------- 
+1. Chickenwhole         Rs. 110
+2. ChickenBoneless      Rs. 140
+3. ChickenDrumsticks    Rs. 100
+4. BeefKabab            Rs. 120
+5. BeefMince            Rs. 110
+6. MuttonLeg            Rs. 140
+7. MuttonMince          Rs. 170
+8. KingPrawns           Rs. 180
+9. SalmonWhole          Rs. 250
+10. SmallPrawns         Rs. 200
